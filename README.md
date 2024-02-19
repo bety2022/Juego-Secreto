@@ -1,6 +1,6 @@
 <h1 align="center"> Juego del número secreto </h1>
 <br>
-<img src="img/ia.png" alt="" width="1000px" />
+<img src="img/Banner.png" alt="" width="1000px" />
 
 ## Informaciòn del Proyecto
 Solución para el curso de introducción a la lógica de programación dentro de la formación de <a href="https://www.oracle.com/ar/education/oracle-next-education/" target="_blank"> ONE - Oracle next education</a>.
