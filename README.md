@@ -37,8 +37,6 @@ Se trabajó en:
 </div>
 <br />
 
-## 📸 Preview del sitio
-<img src="Preview.PNG" alt="" width="1000px" /> 
 <br />
 
 ## 📧 Contacto
