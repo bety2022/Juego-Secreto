@@ -1,4 +1,4 @@
-<h1 align="center"> Juego del número secreto </h1>
+<h1 align="center"> JUEGO DEL NUMERO SECRETO </h1>
 <br>
 <img src="img/Banner.png" alt="" width="1000px" />
 
