@@ -16,7 +16,7 @@ Se trabajó en:
 - Funciones - Template strings - Live server - Condicionales anidados - Loops y bucles - Operadores - Operador ternario - Math random - Math floor - ParseInt - Includes - Arreglos.
 - Recursividad y condición de salida.
 <br />
-🛑 ESTADO: Finalizado
+  ❤️ ESTADO: Finalizado
 <br />
 
 ## 🔎 Deploy
